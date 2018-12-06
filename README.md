@@ -89,6 +89,8 @@ ROSlib是arduino下支持ROS的库，C++编写。（至于如何获取arduino ID
 ---
 ### 参考
 
-1、[基于STM32的rosserial_client的节点开发](https://blog.csdn.net/wubaobao1993/article/details/70808959)
-2、[git 上的例子](https://github.com/stoneyang159/rosserial_client_stm32f103)
-3、[ros rosserial_python 用法](http://wiki.ros.org/rosserial_python)
+1、[基于STM32的rosserial_client的节点开发](https://blog.csdn.net/wubaobao1993/article/details/70808959) <br />
+2、[git 上的例子](https://github.com/stoneyang159/rosserial_client_stm32f103) <br />
+3、[ros rosserial_python 用法](http://wiki.ros.org/rosserial_python) <br />
+
+
